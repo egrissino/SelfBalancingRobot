@@ -10,3 +10,4 @@ A simple implementation of a PID controller class for Arduino to control a two w
 ### NOTE! Any updates to the servo-arm code should go in the ServoArm branch!
 
 ### NOTE! Any updates to the motor code should go in the Motor branch!
+### NOTE! Any updates to the servo-arm code should go in the ServoArm branch!
