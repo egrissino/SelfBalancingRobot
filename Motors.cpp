@@ -4,7 +4,7 @@
 //
 // 04/13/2017
 // Self Balancing Robot
-//
+// Motor Class
 
 /* 
  *  ==============================================================================
@@ -37,9 +37,6 @@
 #endif
 
 #include "Arduino.h"
-
-
-//// ========== ASSUMES INCLUSION OF ARDUINO HEADERS ========= ////
 
 class Motor {
     public:
